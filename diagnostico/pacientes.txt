@@ -1,0 +1,8 @@
+jose pedro|25
+joao henrique|65
+pablo diamante|22
+breno diamante|27
+fedro|22
+fedro segundo|100
+fedro terceiro|150
+fedro quarto|200
